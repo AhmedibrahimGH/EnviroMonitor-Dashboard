@@ -1,6 +1,6 @@
 # EnviroMonitor
 
-**EnviroSuite** is an environmental monitoring and data visualization dashboard that provides real-time insights into temperature, humidity, soil moisture, and CO₂ levels. The project aims to help users make informed decisions by presenting environmental data in an intuitive and interactive way.
+**EnviroMonitor** is an environmental monitoring and data visualization dashboard that provides real-time insights into temperature, humidity, soil moisture, and CO₂ levels. The project aims to help users make informed decisions by presenting environmental data in an intuitive and interactive way.
 
 ## Features
 
